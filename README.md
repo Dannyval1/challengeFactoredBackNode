@@ -20,6 +20,19 @@ Now, let's load the packages for Back. You have to do the same. Open the folder 
 
 That's way you will have running in one window the frontend and the other window the backend.
 
+### `npm start` For Frontend Project
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `node App.js` For Backend Project
+
+Runs the app in the development mode.\
+The Backend project will run in the 5000 port [http://localhost:5000](http://localhost:5000)
+
 ### Prerequisites
 
 What things you need to install the software
